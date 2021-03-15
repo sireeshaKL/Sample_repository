@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is sample file, changes made. again a change made.
+=======
+this is sample file, changes made.
+>>>>>>> branch3
